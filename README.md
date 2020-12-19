@@ -1,4 +1,4 @@
-speller
+speller.c
 dictionary.h
 makefile
 bmp.h
